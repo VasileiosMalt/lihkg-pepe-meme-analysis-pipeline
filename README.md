@@ -7,7 +7,11 @@ This repository contains the complete data collection and analysis pipeline used
 <br> Journal of Digital Social Research, Vol. 4, No. 4, 2022
 <br> **DOI:** [10.33621/jdsr.v4i4.131](https://doi.org/10.33621/jdsr.v4i4.131)
 
-**⚠️ ATTENTION:** This code was tested and utilised successfully before the paper was published in 2022. Its function now is not guaranteed due to potential changes to the LIHKG website or its API since that time.
+> [!WARNING]
+> **Code Tested in 2022 — Functionality Not Guaranteed**
+>
+> This pipeline was fully functional for the research conducted prior to the paper's publication in 2022. The LIHKG website and its underlying API may have been updated since then. As a result, the scraping components are not guaranteed to work without modification.
+
 
 The script automates the process of scraping, processing, analyzing, and archiving data from the LIHKG forum to study the use and adaptation of the Pepe the Frog meme during the 2019 Hong Kong Anti-Extradition Bill (anti-ELAB) movement.
 
