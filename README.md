@@ -5,7 +5,7 @@ This repository contains the complete data collection and analysis pipeline used
 **The Pepe the Frog Image-Meme in Hong Kong: Visual Recurrences and Gender Fluidity on the LIHKG Forum**
 <br> *by Katrien Jacobs, Degel Cheung, Vasileios Maltezos, and Cecilia Wong*
 <br> Journal of Digital Social Research, Vol. 4, No. 4, 2022
-<br> **DOI:** [10.33621/jdsr.v4i4.131](https://doi.org/10.33621/jdsr.v4i4.131)[^1][^2]
+<br> **DOI:** [10.33621/jdsr.v4i4.131](https://doi.org/10.33621/jdsr.v4i4.131)
 
 The script automates the process of scraping, processing, analyzing, and archiving data from the LIHKG forum to study the use and adaptation of the Pepe the Frog meme during the 2019 Hong Kong Anti-Extradition Bill (anti-ELAB) movement.
 
